@@ -1,0 +1,28 @@
+{
+  "name": "aulaaovivo02ppiads2026",
+  "version": "1.0.0",
+  "description": "Prática no desenvolvimento de uma aplicação servidora HTTP para processar formulários HTML",
+  "keywords": [
+    "POST",
+    "HTTP"
+  ],
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/AulaAoVivo02PPIADS2026#readme",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/AulaAoVivo02PPIADS2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/AulaAoVivo02PPIADS2026.git"
+  },
+  "license": "ISC",
+  "author": "Renato Gonçalves",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
